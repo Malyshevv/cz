@@ -26,7 +26,7 @@ https://github.com/Malyshevv/cz/branches
 The database is also uploaded to the repository.
 
 
-
+![Image](http://cz.ruvem.ru/mysite/public_html/assets/img/11.png)
 ![Image](http://cz.ruvem.ru/mysite/public_html/assets/img/1.png)
 ![Image](http://cz.ruvem.ru/mysite/public_html/assets/img/2.png)
 ![Image](http://cz.ruvem.ru/mysite/public_html/assets/img/3.png)
@@ -37,3 +37,4 @@ The database is also uploaded to the repository.
 ![Image](http://cz.ruvem.ru/mysite/public_html/assets/img/8.png)
 ![Image](http://cz.ruvem.ru/mysite/public_html/assets/img/9.png)
 ![Image](http://cz.ruvem.ru/mysite/public_html/assets/img/10.png)
+
