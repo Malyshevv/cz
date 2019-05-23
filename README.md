@@ -19,6 +19,6 @@ To give out prizes to users, enter the command in the
 
 php console yii hello <YOUR NUMBER>
 
-
+You can see all main fails in branch.....
 
 The database is also uploaded to the repository.
