@@ -24,3 +24,7 @@ You can see all main fails in branch.....
 https://github.com/Malyshevv/cz/branches
 
 The database is also uploaded to the repository.
+
+
+
+![Image](http://cz.ruvem.ru/mysite/public_html/assets/img/1.png)
