@@ -21,4 +21,6 @@ php console yii hello <YOUR NUMBER>
 
 You can see all main fails in branch.....
 
+https://github.com/Malyshevv/cz/branches
+
 The database is also uploaded to the repository.
