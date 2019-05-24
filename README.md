@@ -21,7 +21,7 @@ Link WOW Gift(mail adress user): https://cz.ruvem.ru/mysite/public_html/managerg
 To give out prizes to users, enter the command in the 
 
 
->> php console yii hello <YOUR NUMBER>
+>> php yii hello  <YOUR NUMBER>
 
 You can see all main fails in branch.....
 
