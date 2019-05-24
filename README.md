@@ -1,5 +1,7 @@
 Welcome !
 
+- Your can download zip cz ! - 
+
 How to use:
 
 To test the project you can go to the link. 
